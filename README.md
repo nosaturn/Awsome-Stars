@@ -1,4 +1,4 @@
-# Awsome-Stars [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Things I like
 This is things I've starred and other things I need to remmeber.
 
 ## MacOS
