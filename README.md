@@ -10,7 +10,7 @@ This is things I've starred and other things I need to remmeber.
 - [Meeting Bar - your meetings at your fingertips in the menubar](https://github.com/leits/MeetingBar)
 - [System Color Picker - it's just ok. I'd like a better one](https://github.com/sindresorhus/System-Color-Picker)
 - [PearCleaner - app cleaner](https://github.com/alienator88/Pearcleaner)
-- [Signal Shifter - changign audio sources](https://apps.apple.com/us/app/signal-shifter/id6446061552?mt=12)
+- [Signal Shifter - changing audio sources](https://apps.apple.com/us/app/signal-shifter/id6446061552?mt=12)
 - [Jiffy - discover and share gifs - need to find a new one since this is sarchived](https://sindresorhus.com/jiffy)
 - [Guifero - replacement for Jiffy?](https://guifero.app/)
 - [Near Drop - an unofficial Google Nearby Share](https://github.com/grishka/NearDrop)
