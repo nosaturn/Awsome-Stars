@@ -17,5 +17,6 @@ This is things I've starred and other things I need to remmeber.
 - [LocalSend - share files to nearby devices](https://localsend.org/)
 - [Rectangle Pro - windows management](https://rectangleapp.com/pro)
 - [Heroic Games Launcher - Play Eipc, GOC and Amazon Prime games on MacOS](https://heroicgameslauncher.com/)
+- [OpenMTP - For transferring files to and from my android phone. This is better than MacDroid](https://openmtp.ganeshrvel.com/)
 - 
 
