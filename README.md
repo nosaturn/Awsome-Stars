@@ -1,4 +1,4 @@
-# Things I like
+# Mac Things I like
 This is things I've starred and other things I need to remmeber.
 
 ## MacOS
